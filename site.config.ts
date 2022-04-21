@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '115e154abd0940f8922bcec9b86bd99e',
+  rootNotionPageId: '3e38863a280941028c800af6464f34c1',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Moyi-blog',
-  domain: 'https://www.notion.so/Moyi-115e154abd0940f8922bcec9b86bd99e',
+  domain: 'https://www.notion.so/Next-js-Notion-Starter-Kit-Template-3e38863a280941028c800af6464f34c1',
   author: 'moyi',
 
   // open graph metadata (optional)
