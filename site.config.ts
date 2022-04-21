@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '3e38863a280941028c800af6464f34c1',
+  rootNotionPageId: 'a9a9fa1049d34da48729868e7cf71f36',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,16 +10,16 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Moyi-blog',
-  domain: 'https://www.notion.so/Next-js-Notion-Starter-Kit-Template-3e38863a280941028c800af6464f34c1',
+  domain: 'https://www.notion.so/Next-js-Notion-Starter-Kit-Template-a9a9fa1049d34da48729868e7cf71f36',
   author: 'moyi',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: '*****',
+  github: '997179621@qq.com',
+  linkedin: 'no',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
