@@ -51,11 +51,11 @@ export default siteConfig({
    navigationStyle: 'custom',
    navigationLinks: [
      {
-       title: 'About',
+       title: 'Picture',
        pageId: '33e8d04e067143a989323ca9af69b3c7'
      },
      {
-     title: 'Contact',
+     title: 'Air-cloud',
        pageId: '100b875f1e2e4d85b57d2798e4191668'
     }
     ]
